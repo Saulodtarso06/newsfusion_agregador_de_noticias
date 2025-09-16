@@ -1,4 +1,4 @@
-# NewsPulse - Legado
+# NewsFusion - Legado
 
 Um agregador de notícias desenvolvido com Node.js + React + Elasticsearch. Permite listar notícias e realizar buscas full-text em tempo real.
 
@@ -34,8 +34,9 @@ NewsFusion
 │   │   └── createPageUrl.js
 │   ├── index.js
 │   └── styles.css
+
 ├── server.js
-├── package.json
+├── package.json + package-lock.json
 └── README.md
 ```
 ---
